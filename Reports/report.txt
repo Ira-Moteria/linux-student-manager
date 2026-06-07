@@ -6,3 +6,5 @@ Students:
 1. Tina - IT
 2. Student2 - ?
 3. Student3 - ?
+
+Project uploaded to GitHub successfully.
